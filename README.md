@@ -32,11 +32,11 @@ I'm a Second Year Computer Engineering Student
 <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code><br>
-####✨&nbsp;&nbsp;Github&nbsp; Trophy&nbsp;:
+####✨&nbsp;&nbsp;Github&nbsp;Trophy&nbsp;:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SujitAkulwar)](https://github.com/ryo-ma/github-profile-trophy)
 
-####✨&nbsp;&nbsp;Github&nbsp; Stats&nbsp; :
+####✨&nbsp;&nbsp;Github&nbsp;Stats&nbsp;:<br>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SujitAkulwar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sujit's github stats" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujitAkulwar&layout=compact&theme=buefy&hide_border=true" /></a> 
 
