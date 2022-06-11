@@ -14,12 +14,12 @@
 <a href="https://stackoverflow.com/users/19224377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_dragon_master__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40"/></a>
 
-<summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+#### ✨&nbsp;&nbsp;About&nbsp;Me :
 <br>
 I'm a Second Year Computer Engineering Student
 <br>
 
-<summary><b>✨&nbsp;&nbsp;Languages&nbsp; and&nbsp; Tools:</b></summary>&nbsp;
+#### ✨&nbsp;&nbsp;Languages&nbsp; and&nbsp; Tools:
 <br>
 <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -32,9 +32,11 @@ I'm a Second Year Computer Engineering Student
 <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-  
+#### Top Repositories✨&nbsp;&nbsp;Github&nbsp; Trophy&nbsp;:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=SujitAkulwar)](https://github.com/ryo-ma/github-profile-trophy)
 
+#### Top Repositories✨&nbsp;&nbsp;Github&nbsp; Stats&nbsp; :
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SujitAkulwar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sujit's github stats" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujitAkulwar&layout=compact&theme=buefy&hide_border=true" /></a> 
 
