@@ -41,7 +41,7 @@ I'm a Second Year Computer Engineering Student
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SujitAkulwar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sujit's github stats" /></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujitAkulwar&layout=compact&theme=buefy&hide_border=true" /></a> 
 
-#### Top Repositories
+#### Top Repositories :
 <a href="https://github.com/SujitAkulwar/sujitakulwar.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SujitAkulwar&repo=sujitakulwar.github.io&theme=buefy" />
 </a>
