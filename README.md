@@ -8,7 +8,7 @@
 - 💬 &nbsp;Ask me about anything related to  C++, Python, Front-End, Ethical Hacking, etc.
 - 📫 &nbsp;How to reach me: sujitakulwar@gmail.com</a>
 
-🔗 &nbsp;**Connect with me**
+#### 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://twitter.com/sujitakulwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sujit-akulwar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
