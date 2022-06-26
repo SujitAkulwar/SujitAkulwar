@@ -1,6 +1,6 @@
 ### Hi there <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
-#### I'm Sujit Akulwar 
+#### I'm Sujit
 - 🔭 &nbsp; I’m currently exploring development field.
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning React JS
