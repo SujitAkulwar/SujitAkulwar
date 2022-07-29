@@ -3,7 +3,7 @@
 #### I'm Sujit
 - 🔭 &nbsp; I’m currently exploring development field.
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning React JS
+- 🌱 &nbsp;I’m currently learning React JS and more
 - 👯  &nbsp;I’m looking to collaborate on open source projects.
 - 💬 &nbsp;Ask me about anything related to  C++, Python, Front-End, Ethical Hacking, etc.
 - 📫 &nbsp;How to reach me: sujitakulwar@gmail.com</a>
