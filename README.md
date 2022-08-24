@@ -45,4 +45,6 @@ I'm a Second Year Computer Engineering Student
 <a href="https://github.com/SujitAkulwar/sujitakulwar.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SujitAkulwar&repo=sujitakulwar.github.io&theme=buefy" />
 </a>
+
+
 ![](https://visitor-badge.glitch.me/badge?page_id=SujitAkulwar.SujitAkulwar)
